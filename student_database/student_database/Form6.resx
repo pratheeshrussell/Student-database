@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>TERMS AND CONDITIONS OF USE AND SOFTWARE LICENSE AGREEMENT FOR STUDENT DATABASE SOFTWARE
+
+PLEASE READ THESE TERMS AND CONDITIONS OF USE AND THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE USING THE SOFTWARE. BY USING THE STUDENT DATABASE SOFTWARE YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE THE SOFTWARE. IF YOU ACCESSED STUDENT DATABASE SOFTWARE THROUGH PIRATED SITES, DO NOT USE THE SOFTWARE.
+
+IMPORTANT NOTE: This software is used to save and maintain student databases for Training or Placement purposes. If you are uncertain about your right to access any database file you should contact your legal advisor.
+  
+1. General. The software, documentation and any fonts accompanying this License whether on disk, in read only memory, on any other media or in any other form  are licensed, not sold, to you by UCEN-TPW, You are to use it only under the terms of this License, and we reserve all rights not expressly granted to you. The rights granted herein are limited to STUDENT DATABASE SOFTWARE and its licensors' intellectual property rights in the Software and do not include any other patent, copyright, trade secret or other  intellectual property rights. You own the media on which the Software is recorded but you don’t own the software itself, neither you nor any institution owns this software, only UCEN-TPW (and not UCEN) owns the software, you are just allowed to use our software. The terms of this License will govern any software upgrades provided by UCEN-TPW that replace and/or supplement the original Software product, unless such upgrade is accompanied by a separate license in which case the terms of that license will govern.
+ 
+2. Permitted License Uses and Restrictions.
+ 
+A. This License allows you to use the STUDENT DATABASE SOFTWARE. The Software may be used to save, retrieve, publish student details, which you are authorized or legally permitted store or distribute, from your personal computer. You may make one copy of the Software in machine-readable form for backup purposes only, provided that the backup copy must include all copyright or other proprietary notices contained on the original. Except as and only to the extent expressly permitted in this License or by applicable law, you may not copy, decompile, reverse engineer, disassemble, modify, or create derivative works of the STUDENT DATABASE SOFTWARE or any part thereof. THE STUDENT DATABASE SOFTWARE IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, LIFE SUPPORT MACHINES OR OTHER EQUIPMENT IN WHICH THE FAILURE OF THE SOFTWARE COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
+ 
+B. User Age:  By accessing this Software you represent that you are 17 years of age or older.  We do not want children under 17 playing in the computer with our software.
+ 
+C. Specific Prohibited Uses:  This Software may be used only for lawful purposes.  You are responsible for your own actions, including the storage or distribution of any student details using the STUDENT DATABASE SOFTWARE. We specifically prohibit any use of this Software, and require all users to agree not to use our products, for any of the following purposes:
+ 
+a.         Posting any information which is false, inaccurate, unlawful, harassing, libelous, obscene, offensive, or not your own
+b.         Posting details that is copyright protected or otherwise owned by a third party unless you are the copyright owner or have the permission of the owner to post it;
+c.         Accessing the student details for purposes other than Training or Placement especially phone numbers for illegal activities
+d.          Posting material in any manner that infringes or, interferes with or compromises any intellectual property, privacy or publicity right or security of another;
+e.          Violating any law, code, directive or regulation, whether at a national or international level, through use of our Software
+
+3. Disclaimer of Warranties.  YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE STUDENT DATABASE SOFTWARE (AS DEFINED ABOVE) AND SERVICES (AS DEFINED ABOVE) IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU, THE STUDENT DATABASE SOFTWARE AND SERVICES ARE PROVIDED "AS IS", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, WE HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE SOFTWARE AND SERVICES, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES.UCEN-TPW DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE SOFTWARE OR SERVICES THAT THE FUNCTIONS CONTAINED IN THE STUDENT DATABASE SOFTWARE OR SERVICES WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE OR SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SOFTWARE OR SERVICES WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY UCEN-TPW OR A UCEN-TPW AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY. SHOULD THE SOFTWARE OR SERVICES PROVE DEFECTIVE, YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.  FOR THE AVOIDANCE OF DOUBT, EXCEPT AS EXPRESSLY AND SPECIFICALLY PROVIDED IN THIS AGREEMENT, ALL WARRANTIES, CONDITIONS AND OTHER TERMS IMPLIED BY STATUTE OR COMMON LAW ARE, TO THE FULLEST EXTENT PERMITTED BY LAW.
+  
+4. Security Rules.  Violations of system or network security may result in civil or criminal liability. UCEN-TPW will investigate occurrences and may involve, and cooperate with, law enforcement authorities in prosecuting the user or users who are involved in such violations. The author and UCEN-TPW has the full rights to access any database file created with this software by any means possible. You are prohibited from violating or attempting to violate the security of the Software, including, without limitation, the following:
+ 
+         A.      Accessing student details not intended for you
+         B.      Reverse engineering, reconstructing, copying, preparing derivative works or otherwise imitating the STUDENT DATABASE SOFTWARE
+         C.       Publishing any personal details obtained from the database software without proper permissions
+
+ 
+5.  Contacting Us; Notices.  You may contact UCEN-TPW regarding any bug reports in the software, feature requests or doubts in this notice, only through the placement officer or the highest authority of your placement wing; however we are not obliged to reply to any of your queries nor fix any bugs. By contacting us you agree to receive notices by text message or by regular mail at our discretion.
+
+ 
+6. Changes to License; Effective Date.  We may modify this License from time to time without notice to you. The provisions contained here are effective as of the date posted below and supersede all previous terms or conditions. 
+ 
+
+
+Effective Date: September 01, 2013
+ (c) 2013 by STUDENT DATABASE SOFTWARE.  All rights reserved.</value>
+  </data>
+</root>
